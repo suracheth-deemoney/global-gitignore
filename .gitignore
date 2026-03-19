@@ -1,3 +1,13 @@
 .env
 .envrc
 .~lock.*#
+
+# Vim
+*.swp
+*.swo
+*~
+*.un~
+Session.vim
+Sessionx.vim
+.netrwhist
+tags
